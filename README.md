@@ -5,7 +5,7 @@
 
 
 
-- <br> Para visualizar o meu site através do seu Desktop, faça o download do arquivo "DS.html" e o abra em qualquer IDE. </br>
+- Para visualizar o meu site através do seu Desktop, faça o download do arquivo "DS.html" e o abra em qualquer IDE. </br>
 
 
 # 𖹭.ᐟ.ᐟ Ferramentas utilizadas: 
