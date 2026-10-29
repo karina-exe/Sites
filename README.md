@@ -8,7 +8,7 @@
 - <br> Para visualizar o meu site através do seu Desktop, faça o download do arquivo "DS.html" e o abra em qualquer IDE. </br>
 
 
-# 𖹭.ᐟ.ᐟ Ferramentas utilizadas no processo: 
+# 𖹭.ᐟ.ᐟ Ferramentas utilizadas: 
 
 - <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/html5/plain.svg?color=%23000000">
 - <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/pycharm/plain.svg?color=%23000000">
