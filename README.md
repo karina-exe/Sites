@@ -1,11 +1,14 @@
 # 𖹭.ᐟ.ᐟMy first HTML site: ❝Sites Favoritos❝
 
 
-<img src="https://iili.io/n8rQkTQ.png" alt="Banner" width="100%">
+## <img src="https://iili.io/n8rQkTQ.png" alt="Banner" width="100%">
 
-- Para visualizar o meu site através do seu Desktop, faça o download do arquivo "DS.html" e o abra em qualquer IDE. 
 
-#𖹭.ᐟ.ᐟ Ferramentas utilizadas: 
+
+- <br> Para visualizar o meu site através do seu Desktop, faça o download do arquivo "DS.html" e o abra em qualquer IDE. </br>
+
+
+# 𖹭.ᐟ.ᐟ Ferramentas utilizadas: 
 
 - <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/html5/plain.svg?color=%23000000">
 - <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/pycharm/plain.svg?color=%23000000">
