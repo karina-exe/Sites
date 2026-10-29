@@ -1,11 +1,13 @@
 # 𖹭.ᐟ.ᐟMy first HTML site: ❝Sites Favoritos❝
 
 
-## <img src="https://iili.io/n8rQkTQ.png" alt="Banner" width="100%">
-
-
+<img src="https://iili.io/n8rQkTQ.png" alt="Banner" width="100%">
 
 - Para visualizar o meu site através do seu Desktop, faça o download do arquivo "DS.html" e o abra em qualquer IDE. </br>
+
+# 𖹭.ᐟ.ᐟ Print do código:
+
+<img src="https://iili.io/n86Q1Qp.png" alt="Banner" width="100%">
 
 
 # 𖹭.ᐟ.ᐟ Ferramentas utilizadas: 
